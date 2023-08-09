@@ -1,0 +1,279 @@
+Q: What is a galaxy?
+a)A A star
+b)A A planet
+c)A A group of stars, gas, and dust held together by gravity
+d)A A comet
+Answer: c) A group of stars, gas, and dust held together by gravity
+
+Q: Which of the following is not a type of galaxy?
+a)A spiral galaxy
+b)A elliptical galaxy
+c)A irregular galaxy
+d)A solar galaxy
+Answer: d) Solar galaxy
+
+Q: Which galaxy is closest to the Milky Way?
+a)A Andromeda Galaxy
+b)A Triangulum Galaxy
+c)A Sombrero Galaxy
+d)A Whirlpool Galaxy
+Answer: a) Andromeda Galaxy
+
+Q: What is the center of a galaxy called?
+a)A Nucleus
+b)A Core
+c)A Black hole
+d)A Star
+Answer: a) Nucleus
+
+Q: The Milky Way belongs to which type of galaxy?
+a)A Spiral galaxy
+b)A Elliptical galaxy
+c)A Irregular galaxy
+d)A Lenticular galaxy
+Answer: a) Spiral galaxy
+
+Q: What is the most abundant element in galaxies?
+a)A Hydrogen
+b)A Helium
+c)A Oxygen
+d)A Carbon
+Answer: a) Hydrogen
+
+Q: Which force holds galaxies together?
+a)A Electromagnetic force
+b)A Gravitational force
+c)A Nuclear force
+d)A Weak force
+Answer: b) Gravitational force
+
+Q: What is the name of the supermassive black hole at the center of the Milky Way?
+a)A Andromeda
+b)A Hercules
+c)A Sagittarius A*
+d)A Orion
+Answer: c) Sagittarius A*
+
+Q: The study of galaxies is known as:
+a)A Cosmology
+b)A Astrology
+c)A Astronomy
+d)A Galactology
+Answer: c) Astronomy
+
+Q: Which astronomer first classified galaxies as spiral, elliptical, and irregular?
+a)A Edwin Hubble
+b)A Isaac Newton
+c)A Galileo Galilei
+d)A Nicolaus Copernicus
+Answer: a) Edwin Hubble
+
+Q: What is the estimated age of the universe?
+a)A 4.6 billion years
+b)A 13.8 billion years
+c)A 1 million years
+d)A 10 billion years
+Answer: b) 13.8 billion years
+
+Q: Which galaxy is famous for its beautiful spiral arms and is sometimes referred to as the "Whirlpool Galaxy"?
+a)A Andromeda Galaxy
+b)A Sombrero Galaxy
+c)A Pinwheel Galaxy
+d)A Triangulum Galaxy
+Answer: c) Pinwheel Galaxy
+
+Q: The concept of dark matter was proposed to explain:
+a)A The absence of stars in galaxies
+b)A The lack of black holes in galaxies
+c)A The flat rotation curves of galaxies
+d)A The formation of elliptical galaxies
+Answer: c) The flat rotation curves of galaxies
+
+Q: Which galaxy is famous for its large, prominent central bulge and lack of distinct spiral arms?
+a)A Sombrero Galaxy
+b)A Andromeda Galaxy
+c)A Centaurus A
+d)A M87 (Virgo A)
+Answer: a) Sombrero Galaxy
+
+Q: The redshift of a galaxy indicates:
+a)A Its distance from us
+b)A Its temperature
+c)A Its size
+d)A Its age
+Answer: a) Its distance from us
+
+Q: Which galaxy is the closest one to our Local Group, other than the Milky Way and Andromeda galaxies?
+a)A Triangulum Galaxy
+b)A Centaurus A
+c)A Whirlpool Galaxy
+d)A Pinwheel Galaxy
+Answer: a) Triangulum Galaxy
+
+Q: The event horizon of a black hole is also known as the:
+a)A Point of no return
+b)A Photon sphere
+c)A Singularity
+d)A Gravitational lens
+Answer: a) Point of no return
+
+Q: What is the name of the process by which galaxies merge with each other?
+a)A Galactic annihilation
+b)A Galactic fusion
+c)A Galactic collision
+d)A Galactic accretion
+Answer: c) Galactic collision
+
+Q: The Great Attractor is a mysterious gravitational anomaly located in which direction from the Milky Way?
+a)A North
+b)A South
+c)A East
+d)A West
+Answer: b) South
+
+Q: Which galaxy is believed to contain the most massive black hole ever detected?
+a)A M87 (Virgo A)
+b)A Milky Way
+c)A Centaurus A
+d)A Sombrero Galaxy
+Answer: a) M87 (Virgo A)
+
+Q: What is the Hubble sequence in the context of galaxy classification?
+a)A A method to determine a galaxy's age
+b)A The process of galaxy formation
+c)A A way to classify galaxies based on their morphological features
+d)A A technique to measure galaxy distances
+Answer: c) A way to classify galaxies based on their morphological features
+
+Q: The space between galaxies is not entirely empty; it contains very low-density gas and dust known as:
+a)A Intergalactic medium
+b)A Dark matter
+c)A Neutrinos
+d)A Extragalactic medium
+Answer: a) Intergalactic medium
+
+Q: What is the name of the satellite launched by NASA to observe and map the entire sky in infrared light, including galaxies?
+a)A Hubble Space Telescope
+b)A James Webb Space Telescope
+c)A Spitzer Space Telescope
+d)A WMAP (Wilkinson Microwave Anisotropy Probe)
+Answer: c) Spitzer Space Telescope
+
+Q: The "Great Filter" hypothesis is related to:
+a)A The reason why we haven't found extraterrestrial civilizations
+b)A The process of galaxy formation
+c)A The existence of parallel universes
+d)A The detection of gamma-ray bursts
+Answer: a) The reason why we haven't found extraterrestrial civilizations
+
+Q: What is the "Observable Universe"?
+a)A The part of the universe that is visible to us with telescopes
+b)A The part of the universe that contains galaxies
+c)A The part of the universe that is visible during a solar eclipse
+d)A The part of the universe that is observable with the naked eye
+Answer: a) The part of the universe that is visible to us with telescopes
+
+Q: In galaxy formation, what are "Dwarf galaxies"?
+a)A Very old galaxies
+b)A Galaxies with a black hole at their center
+c)A Small galaxies with low luminosity and low mass
+d)A Galaxies that emit mostly X-rays
+Answer: c) Small galaxies with low luminosity and low mass
+
+Q: The Milky Way is
+a)A An elliptical galaxy
+b)A A spiral galaxy
+c)A An irregular galaxy
+d)A A lenticular galaxy
+Answer: b) A spiral galaxy
+
+Q: What is the name of the famous galaxy cluster that contains thousands of galaxies?
+a)A Virgo Cluster
+b)A Hydra Cluster
+c)A Coma Cluster
+d)A Fornax Cluster
+Answer: a) Virgo Cluster
+
+Q: Which galaxy is known for its active galactic nucleus and powerful jets of particles?
+a)A M87 (Virgo A)
+b)A Milky Way
+c)A Andromeda Galaxy
+d)A Triangulum Galaxy
+Answer: a) M87 (Virgo A)
+
+Q: Which galaxy is believed to be the largest in terms of mass and volume in the observable universe?
+a)A Andromeda Galaxy
+b)A Milky Way
+c)A IC 1101
+d)A Triangulum Galaxy
+Answer: c) IC 1101
+
+Q: What is the name of the space telescope launched by the European Space Agency (ESA) that observed galaxies in various wavelengths of light?
+a)A Hubble Space Telescope
+b)A James Webb Space Telescope
+c)A Planck Observatory
+d)A Herschel Space Observatory
+Answer: d) Herschel Space Observatory
+
+Q: What is the name of the galaxy that is famous for its enormous central radio source, resembling a bird of prey?
+a)A Centaurus A
+b)A Sombrero Galaxy
+c)A Andromeda Galaxy
+d)A Pinwheel Galaxy
+Answer: a) Centaurus A
+
+Q: Which galaxy is famous for its prominent dust lane across its equatorial region, giving it a "Sombrero" appearance?
+a)A Centaurus A
+b)A Sombrero Galaxy
+c)A Andromeda Galaxy
+d)A Pinwheel Galaxy
+Answer: b) Sombrero Galaxy
+
+Q: What is the name of the galaxy that has been observed to have a giant, bubble-shaped region of ionized hydrogen gas?
+a)A Andromeda Galaxy
+b)A Whirlpool Galaxy
+c)A Centaurus A
+d)A NGC 604
+Answer: d) NGC 604
+
+Q: Which galaxy is believed to have a massive black hole at its center that is powering an active galactic nucleus?
+a)A Triangulum Galaxy
+b)A Andromeda Galaxy
+c)A M87 (Virgo A)
+d)A Pinwheel Galaxy
+Answer: c) M87 (Virgo A)
+
+Q: What is the name of the galaxy that was discovered to have a double nucleus, suggesting a recent galaxy merger?
+a)A NGC 1097
+b)A M81
+c)A M82
+d)A M104 (Sombrero Galaxy)
+Answer: a) NGC 1097
+
+Q: Which galaxy is known for its distorted, elongated shape, caused by a tidal interaction with another galaxy?
+a)A Whirlpool Galaxy
+b)A Centaurus A
+c)A NGC 4676 (The Mice)
+d)A Andromeda Galaxy
+Answer: c) NGC 4676 (The Mice)
+
+Q: What is the name of the galaxy that is famous for its bright, active starburst regions?
+a)A Centaurus A
+b)A Sombrero Galaxy
+c)A Andromeda Galaxy
+d)A Messier 82 (Cigar Galaxy)
+Answer: d) Messier 82 (Cigar Galaxy)
+
+Q: Which galaxy is known for its prominent ring structure, giving it a "Cartwheel" appearance?
+a)A Triangulum Galaxy
+b)A Andromeda Galaxy
+c)A Centaurus A
+d)A The Cartwheel Galaxy (ESO 350-40)
+Answer: d) The Cartwheel Galaxy (ESO 350-40)
+
+Q: What is the name of the galaxy that is believed to have the highest rate of star formation in the Local Group?
+a)A Milky Way
+b)A Andromeda Galaxy
+c)A Triangulum Galaxy
+d)A NGC 1569
+Answer: d) NGC 1569
